@@ -1,0 +1,8 @@
+{
+  "name": "gitpod-test",
+  "repository": "https://github.com/mixer2/gitpod-test.git",
+  "author": "Christoph Stickel <christoph@neochic.de>",
+  "scripts": {
+      "start": "node src/index.js"
+  }
+}
