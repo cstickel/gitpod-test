@@ -1,6 +1,6 @@
 commands:
     setup:
-      run: yarn i
+      run: yarn install
       description: Install dependencies
     start:
       run: yarn start
