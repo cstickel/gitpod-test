@@ -6,4 +6,5 @@ FROM gitpod/workspace-full
 #
 # More information: https://www.gitpod.io/docs/config-docker/
 
-RUN npm i -g @tklae/lets
+RUN npm i -g @tklae/lets \
+    && docker-up &
